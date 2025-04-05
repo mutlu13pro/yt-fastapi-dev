@@ -1,0 +1,8 @@
+fastapi
+sqlmodel
+uv
+timescaledb
+uvicorn
+pydantic
+SQLAlchemy
+gunicorn
